@@ -4,8 +4,11 @@ This website shows a short biographical sketch, a list of my research works and 
 
 ### Research
 
-My research 
+My main research area is parallel and distributed computing. I have worked developing software for High Performance Computing and Big Data environments, and assessing the performance of such systems.
 
+Some recent works are:
+- ENERGIA
+- CON PABLO
 
 A list of my publications is available at my [Google Scholar](https://scholar.google.es/citations?user=Z8HTo5MAAAAJ) and [DBLP](https://dblp.org/pers/l/Lopez=Novoa:Unai.html) profiles.
 
@@ -17,18 +20,18 @@ Prior to September 2019
 
 ### Work Experience
 
-2019 - Now: Assistant Professor of Computer Science, School of Engineering, University of the Basque Country.
-2017 - 2019: Research Software Engineer at the [Data Innovation Research Institute, Cardiff University](https://www.cardiff.ac.uk/data-innovation-research-institute).
-2017 (Apr-Sep): Part-time MSc Thesis advisor at the [International University of La Rioja](https://en.unir.net/).
-2015 - 2017: Research Associate at the [MoreLab Research Group, University of Deusto](https://morelab.deusto.es/).
-2011 - 2017: Research Assistant at the School of Computer Science, University of the Basque Country.
-2008 - 2010: Research Technician at the University of Deusto.
+-2019 - Now: Assistant Professor of Computer Science, School of Engineering, University of the Basque Country.
+-2017 - 2019: Research Software Engineer at the [Data Innovation Research Institute, Cardiff University](https://www.cardiff.ac.uk/data-innovation-research-institute).
+-2017 (Apr-Sep): Part-time MSc Thesis advisor at the [International University of La Rioja](https://en.unir.net/).
+-2015 - 2017: Research Associate at the [MoreLab Research Group, University of Deusto](https://morelab.deusto.es/).
+-2011 - 2017: Research Assistant at the School of Computer Science, University of the Basque Country.
+-2008 - 2010: Research Technician at the University of Deusto.
 
 ### Education
 
-2015: PhD in Computer Science
-2011: MSc in Computer Science
-2010: BSc in Computer Science
+-2015: PhD in Computer Science. Thesis: "Contributions to the Efficient Use of General Purpose Coprocessors: Kernel Density Estimation as Case Study", advised by [Jose Miguel-Alonso](http://www.sc.ehu.es/acwmialj/) and [Alexander Mendiburu](http://www.sc.ehu.es/ccwbayes/members/amendiburu/alex.html).
+-2011: MSc in Computer Science. Thesis: "Parallelization of a Molecular Dynamics Simulation Code using OpenCL", advised by Jose Miguel-Alonso and Alexander Mendiburu.
+-2010: BSc in Computer Science. Thesis: "A platform to enable shopping for the blind using mobile technologies", advised by [Diego López-de-Ipiña](http://paginaspersonales.deusto.es/dipina/).
 
 //## Welcome to GitHub Pages
 
