@@ -10,7 +10,7 @@ My main research area is parallel and distributed computing, with focus on the p
 
 Some of my recent works have studied the energy consumption of different Intel multi-core CPUs ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) and the scalability of a Large-Eddy Simulation Code in a large-scale compute cluster ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)).
 
-In the past I have also worked in research projects related to other fields of Computer Science, like IoT/mobile computing ([CPSS 2019](http://ceur-ws.org/Vol-2530/paper7.pdf), [IWAAL 2011](https://link.springer.com/chapter/10.1007/978-3-642-21303-8_5)) and Human-Computer Interaction ([JUCS 2019](http://jucs.org/jucs_25_2/designing_a_human_computation/jucs_25_02_0122_0153_zabaleta.pdf), [UIC 2017],(https://ieeexplore.ieee.org/abstract/document/8397542/)).
+In the past I have also worked in research projects related to other fields of Computer Science, like IoT/mobile computing ([CPSS 2019](http://ceur-ws.org/Vol-2530/paper7.pdf), [IWAAL 2011](https://link.springer.com/chapter/10.1007/978-3-642-21303-8_5)) and Human-Computer Interaction ([JUCS 2019](http://jucs.org/jucs_25_2/designing_a_human_computation/jucs_25_02_0122_0153_zabaleta.pdf), [UIC 2017](https://ieeexplore.ieee.org/abstract/document/8397542/)).
 
 A list of publications is available in [Google Scholar](https://scholar.google.es/citations?user=Z8HTo5MAAAAJ) and [DBLP](https://dblp.org/pers/l/Lopez=Novoa:Unai.html).
 
