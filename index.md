@@ -8,15 +8,13 @@ My contact e-mail: unai -dot- lopez -at- ehu -dot- eus
 
 My main research area is parallel and distributed computing. I have worked developing software for High Performance Computing and Big Data environments, and assessing the performance of such systems.
 
-Some recent works are:
-- ENERGIA
-- CON PABLO
+Some recent of my recent works have studied the energy consumption of different Intel multi-core CPUs ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) and the scalability of a Large-Eddy Simulation Code in a multiple node compute cluster ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)).
 
-A list of my publications is available at my [Google Scholar](https://scholar.google.es/citations?user=Z8HTo5MAAAAJ) and [DBLP](https://dblp.org/pers/l/Lopez=Novoa:Unai.html) profiles.
+A list of publications is available in [Google Scholar](https://scholar.google.es/citations?user=Z8HTo5MAAAAJ) and [DBLP](https://dblp.org/pers/l/Lopez=Novoa:Unai.html).
 
 ### Teaching
 
-I joined the faculty of the School of Engineering in September 2019 and since then I have taught:
+I joined the faculty of the School of Engineering in September 2019, where I teach:
 
 - _FI_, 1st year undergraduate, BSc in Electrical Engineering (Sillabus in Basque/Spanish).
 - _Advanced Software Development_, 4th year undergraduate, BSc in Computer Science and IT (Sillabus in Basque/[Spanish](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)).
@@ -33,7 +31,7 @@ Prior to September 2019 I have taught:
 - **2017 (Apr-Sep)**: Part-time MSc Thesis advisor at the [International University of La Rioja](https://en.unir.net/).
 - **2015-2017**: Research Associate at the [MoreLab Research Group, University of Deusto](https://morelab.deusto.es/).
 - **2011-2017**: Research Assistant at the School of Computer Science, University of the Basque Country.
-- **2008-2010**: Research Technician at the University of Deusto.
+- **2008-2010**: Research Technician at [DeustoTech](https://deustotech.deusto.es/), University of Deusto.
 
 ### Education
 
@@ -49,4 +47,4 @@ Address: _P3i17 Bulegoa, Bilboko Ingenieritza Eskola - II Eraikina, 48013 Bilbo,
 
 You can find me in some social networks like [Twitter](https://twitter.com/ulopeznovoa), LinkedIn or ResearchGate.
 
-I have a [SlideShare](https://www.slideshare.net/unlopez) profile where I upload the slides of some of my presentations/talks and a [GitHub](https://github.com/ulopeznovoa) profile with some of my software projects, including this webpage.
+I have a [SlideShare](https://www.slideshare.net/unlopez) profile with the slides of some of my presentations/talks and a [GitHub](https://github.com/ulopeznovoa) profile with some of my software projects, including this webpage.
