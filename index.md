@@ -1,20 +1,34 @@
-I am an Assistant Professor of Computer Science at the Department of Computer Languages and Systems, [University of the Basque Country](https://www.ehu.eus/en).
+I am an Assistant Professor of Computer Science at the Department of Computer Languages and Systems, [University of the Basque Country](https://www.ehu.eus/en). I am based at the [School of Engineering in Bilbao](https://www.ehu.eus/en/web/ingeniaritza-bilbo).
+
+This website shows a short biographical sketch, a list of my research works and ways to contact or follow me through social media.
 
 ### Research
 
-My research is ..
+My research 
+
+
+A list of my publications is available at my [Google Scholar](https://scholar.google.es/citations?user=Z8HTo5MAAAAJ) and [DBLP](https://dblp.org/pers/l/Lopez=Novoa:Unai.html) profiles.
 
 ### Teaching
 
-I am currently teaching ...
+I joined the faculty of 
 
+Prior to September 2019
 
 ### Work Experience
 
-2019 - 2017
+2019 - Now: Assistant Professor of Computer Science, School of Engineering, University of the Basque Country.
+2017 - 2019: Research Software Engineer at the [Data Innovation Research Institute, Cardiff University](https://www.cardiff.ac.uk/data-innovation-research-institute).
+2017 (Apr-Sep): Part-time MSc Thesis advisor at the [International University of La Rioja](https://en.unir.net/).
+2015 - 2017: Research Associate at the [MoreLab Research Group, University of Deusto](https://morelab.deusto.es/).
+2011 - 2017: Research Assistant at the School of Computer Science, University of the Basque Country.
+2008 - 2010: Research Technician at the University of Deusto.
 
 ### Education
 
+2015: PhD in Computer Science
+2011: MSc in Computer Science
+2010: BSc in Computer Science
 
 //## Welcome to GitHub Pages
 
