@@ -6,9 +6,11 @@ My contact e-mail: unai -dot- lopez -at- ehu -dot- eus
 
 ### Research
 
-My main research area is parallel and distributed computing. I have worked developing software for High Performance Computing and Big Data environments, and assessing the performance of such systems.
+My main research area is parallel and distributed computing, with focus on the performance analysis of High Performance Computing and Big Data systems. I am interested in finding ways to assess and exploit the performance of modern multi-core and many-core CPUs and coprocessors.
 
-Some recent of my recent works have studied the energy consumption of different Intel multi-core CPUs ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) and the scalability of a Large-Eddy Simulation Code in a multiple node compute cluster ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)).
+Some recent of my recent works have studied the energy consumption of different Intel multi-core CPUs ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) and the scalability of a Large-Eddy Simulation Code in a large-scale compute cluster ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)).
+
+In the past I have also worked in research projects related to other fields of Computer Science, like IoT/mobile computing ([CPSS 2019](http://ceur-ws.org/Vol-2530/paper7.pdf), [IWAAL 2011](https://link.springer.com/chapter/10.1007/978-3-642-21303-8_5)) and Human-Computer Interaction ([JUCS 2019](http://jucs.org/jucs_25_2/designing_a_human_computation/jucs_25_02_0122_0153_zabaleta.pdf)).
 
 A list of publications is available in [Google Scholar](https://scholar.google.es/citations?user=Z8HTo5MAAAAJ) and [DBLP](https://dblp.org/pers/l/Lopez=Novoa:Unai.html).
 
@@ -16,8 +18,8 @@ A list of publications is available in [Google Scholar](https://scholar.google.e
 
 I joined the faculty of the School of Engineering in September 2019, where I teach:
 
-- _FI_, 1st year undergraduate, BSc in Electrical Engineering (Sillabus in Basque/Spanish).
-- _Advanced Software Development_, 4th year undergraduate, BSc in Computer Science and IT (Sillabus in Basque/[Spanish](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)).
+- _FI_, 1st year undergraduate, BSc in Electrical Engineering (Syllabus in Basque/Spanish).
+- _Advanced Software Development_, BSc in Computer Science and IT, 4th year (Syllabus in [Basque](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)/[Spanish](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)).
 
 Prior to September 2019 I have taught:
 
@@ -30,8 +32,8 @@ Prior to September 2019 I have taught:
 - **2017-2019**: Research Software Engineer at the [Data Innovation Research Institute, Cardiff University](https://www.cardiff.ac.uk/data-innovation-research-institute).
 - **2017 (Apr-Sep)**: Part-time MSc Thesis advisor at the [International University of La Rioja](https://en.unir.net/).
 - **2015-2017**: Research Associate at the [MoreLab Research Group, University of Deusto](https://morelab.deusto.es/).
-- **2011-2017**: Research Assistant at the School of Computer Science, University of the Basque Country.
-- **2008-2010**: Research Technician at [DeustoTech](https://deustotech.deusto.es/), University of Deusto.
+- **2011-2017**: Research Assistant at the [Intelligent Systems Group, University of the Basque Country](http://www.sc.ehu.es/ccwbayes/).
+- **2008-2010**: Research Technician at [DeustoTech, University of Deusto](https://deustotech.deusto.es/).
 
 ### Education
 
