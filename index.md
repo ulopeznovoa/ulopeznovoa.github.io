@@ -1,4 +1,22 @@
-## Welcome to GitHub Pages
+I am an Assistant Professor of Computer Science at the Department of Computer Languages and Systems, [University of the Basque Country](https://www.ehu.eus/en).
+
+### Research
+
+My research is ..
+
+### Teaching
+
+I am currently teaching ...
+
+
+### Work Experience
+
+2019 - 2017
+
+### Education
+
+
+//## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ulopeznovoa/ulopeznovoa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
