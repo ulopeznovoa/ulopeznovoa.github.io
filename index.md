@@ -1,8 +1,8 @@
 I am an Assistant Professor of Computer Science at the Department of Computer Languages and Systems, [University of the Basque Country](https://www.ehu.eus/en). I am based at the [School of Engineering in Bilbao](https://www.ehu.eus/en/web/ingeniaritza-bilbo).
 
-This website shows a short biographical sketch, a list of my research works and ways to contact or follow me through social media.
+This website shows a short biosketch, a list of my research works and ways to contact or follow me through social media.
 
-My contact e-mail: unai -dot- lopez -at- ehu -dot- eus
+My contact e-mail: unai.lopez -at- ehu.eus
 
 ### Research
 
@@ -18,13 +18,13 @@ A list of publications is available in [Google Scholar](https://scholar.google.e
 
 I joined the faculty of the School of Engineering in September 2019, where I teach:
 
-- _FI_, 1st year undergraduate, BSc in Electrical Engineering (Syllabus in Basque/Spanish).
 - _Advanced Software Development_, BSc in Computer Science and IT, 4th year (Syllabus in [Basque](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)/[Spanish](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)).
+- _Fundamentals of Computer Science_, BSc in Electrical Engineering, 1st (Syllabus in Basque/Spanish).
 
 Prior to September 2019 I have taught:
 
-- **2017**: _Programming with C_, University of Deusto. (A third of the subject) 
-- **2014**: _Introduction to computer networking_, University of the Basque Country (Teaching assistant for the practice sessions)
+- 2017: _Programming with C_, University of Deusto. 
+- 2014: _Introduction to computer networking_, University of the Basque Country (Teaching assistant for the practice sessions)
 
 ### Work Experience
 
@@ -47,6 +47,6 @@ My institutional web page with information about office hours is available in [B
 
 Address: _P3i17 Bulegoa, Bilboko Ingenieritza Eskola - II Eraikina, 48013 Bilbo, Spain_.
 
-You can find me in some social networks like [Twitter](https://twitter.com/ulopeznovoa), LinkedIn or ResearchGate.
+You can find me in social networks like [Twitter](https://twitter.com/ulopeznovoa), [LinkedIn](https://www.linkedin.com/in/unailopez) or [ResearchGate](https://www.researchgate.net/profile/Unai_Lopez-Novoa).
 
-I have a [SlideShare](https://www.slideshare.net/unlopez) profile with the slides of some of my presentations/talks and a [GitHub](https://github.com/ulopeznovoa) profile with some of my software projects, including this webpage.
+I have a [SlideShare](https://www.slideshare.net/unlopez) profile with slides of some of my presentations/talks and a [GitHub](https://github.com/ulopeznovoa) profile with some software projects, including this webpage.
