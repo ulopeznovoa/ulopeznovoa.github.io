@@ -1,6 +1,6 @@
-I am an Assistant Professor of Computer Science at the Department of Computer Languages and Systems, [University of the Basque Country](https://www.ehu.eus/en). I am based at the [School of Engineering in Bilbao](https://www.ehu.eus/en/web/ingeniaritza-bilbo).
+I am an Assistant Professor of Computer Science at the [University of the Basque Country](https://www.ehu.eus/en). I am based at the [School of Engineering in Bilbao](https://www.ehu.eus/en/web/ingeniaritza-bilbo).
 
-This website shows a short biosketch, a list of my research works and ways to contact or follow me through social media.
+This website shows a short biosketch, a list of my research works and ways to contact me.
 
 My contact e-mail: unai.lopez -at- ehu.eus
 
@@ -8,9 +8,9 @@ My contact e-mail: unai.lopez -at- ehu.eus
 
 My main research area is parallel and distributed computing, with focus on the performance analysis of High Performance Computing and Big Data systems. I am interested in finding ways to assess and exploit the performance of modern multi-core and many-core CPUs and coprocessors.
 
-Some recent of my recent works have studied the energy consumption of different Intel multi-core CPUs ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) and the scalability of a Large-Eddy Simulation Code in a large-scale compute cluster ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)).
+Some of my recent works have studied the energy consumption of different Intel multi-core CPUs ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) and the scalability of a Large-Eddy Simulation Code in a large-scale compute cluster ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)).
 
-In the past I have also worked in research projects related to other fields of Computer Science, like IoT/mobile computing ([CPSS 2019](http://ceur-ws.org/Vol-2530/paper7.pdf), [IWAAL 2011](https://link.springer.com/chapter/10.1007/978-3-642-21303-8_5)) and Human-Computer Interaction ([JUCS 2019](http://jucs.org/jucs_25_2/designing_a_human_computation/jucs_25_02_0122_0153_zabaleta.pdf)).
+In the past I have worked in research projects related to other fields of Computer Science, like IoT/mobile computing ([CPSS 2019](http://ceur-ws.org/Vol-2530/paper7.pdf), [IWAAL 2011](https://link.springer.com/chapter/10.1007/978-3-642-21303-8_5)) and Human-Computer Interaction ([JUCS 2019](http://jucs.org/jucs_25_2/designing_a_human_computation/jucs_25_02_0122_0153_zabaleta.pdf)).
 
 A list of publications is available in [Google Scholar](https://scholar.google.es/citations?user=Z8HTo5MAAAAJ) and [DBLP](https://dblp.org/pers/l/Lopez=Novoa:Unai.html).
 
@@ -19,7 +19,7 @@ A list of publications is available in [Google Scholar](https://scholar.google.e
 I joined the faculty of the School of Engineering in September 2019, where I teach:
 
 - _Advanced Software Development_, BSc in Computer Science and IT, 4th year (Syllabus in [Basque](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)/[Spanish](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)).
-- _Fundamentals of Computer Science_, BSc in Electrical Engineering, 1st (Syllabus in Basque/Spanish).
+- _Fundamentals of Computer Science_, BSc in Electrical Engineering, 1st (Syllabus in [Basque](https://www.ehu.eus/eu/ingeniaritza-elektrikoko-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=1&p_cod_asignatura=27679)/[Spanish](https://www.ehu.eus/es/grado-ingenieria-electrica-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=1&p_cod_asignatura=27679)).
 
 Prior to September 2019 I have taught:
 
