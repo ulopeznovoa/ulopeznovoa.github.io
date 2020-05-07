@@ -27,50 +27,23 @@ Prior to September 2019 I have taught:
 ### Work Experience
 
 - **2019-_Now_**: Assistant Professor of Computer Science, School of Engineering, University of the Basque Country.
-- 2017 - 2019: Research Software Engineer at the [Data Innovation Research Institute, Cardiff University](https://www.cardiff.ac.uk/data-innovation-research-institute).
-- 2017 (Apr-Sep): Part-time MSc Thesis advisor at the [International University of La Rioja](https://en.unir.net/).
-- 2015 - 2017: Research Associate at the [MoreLab Research Group, University of Deusto](https://morelab.deusto.es/).
-- **2011 - 2017**: Research Assistant at the School of Computer Science, University of the Basque Country.
+- **2017-2019**: Research Software Engineer at the [Data Innovation Research Institute, Cardiff University](https://www.cardiff.ac.uk/data-innovation-research-institute).
+- **2017 (Apr-Sep)**: Part-time MSc Thesis advisor at the [International University of La Rioja](https://en.unir.net/).
+- **2015-2017**: Research Associate at the [MoreLab Research Group, University of Deusto](https://morelab.deusto.es/).
+- **2011-2017**: Research Assistant at the School of Computer Science, University of the Basque Country.
 - **2008-2010**: Research Technician at the University of Deusto.
 
 ### Education
 
-- **2015**: PhD in Computer Science. Thesis: "Contributions to the Efficient Use of General Purpose Coprocessors: Kernel Density Estimation as Case Study", advised by [Jose Miguel-Alonso](http://www.sc.ehu.es/acwmialj/) and [Alexander Mendiburu](http://www.sc.ehu.es/ccwbayes/members/amendiburu/alex.html).
-- **2011**: MSc in Computer Science. Thesis: "Parallelization of a Molecular Dynamics Simulation Code using OpenCL", advised by Jose Miguel-Alonso and Alexander Mendiburu.
-- **2010**: BSc in Computer Science. Thesis: "A platform to enable shopping for the blind using mobile technologies", advised by [Diego López-de-Ipiña](http://paginaspersonales.deusto.es/dipina/).
+- **2015**: PhD in Computer Science. Thesis: [_Contributions to the Efficient Use of General Purpose Coprocessors: Kernel Density Estimation as Case Study_](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2015_phd_unai_lopez-nova.pdf), advised by [Jose Miguel-Alonso](http://www.sc.ehu.es/acwmialj/) and [Alexander Mendiburu](http://www.sc.ehu.es/ccwbayes/members/amendiburu/alex.html).
+- **2011**: MSc in Computer Science. Thesis: [_Parallelization of a Molecular Dynamics Simulation Code using OpenCL_](http://www.ehu.es/sgi/ARCHIVOS/MSIA_UnaiLopez.pdf), advised by Jose Miguel-Alonso and Alexander Mendiburu.
+- **2010**: BSc in Computer Science. Thesis: _A platform to enable shopping for the blind using mobile technologies_, advised by [Diego López-de-Ipiña](http://paginaspersonales.deusto.es/dipina/).
 
-### Social Media
+### Contact and Social Media
+
+Address:
 
 
+LinkedIn for a 
 
 The slides that I have used for some of my presentations and talks are available
-
-//## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ulopeznovoa/ulopeznovoa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
