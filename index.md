@@ -32,7 +32,7 @@ Prior to September 2019 I have taught:
 - **2017-2019**: Research Software Engineer at the [Data Innovation Research Institute, Cardiff University](https://www.cardiff.ac.uk/data-innovation-research-institute).
 - **2017 (Apr-Sep)**: Part-time MSc Thesis advisor at the [International University of La Rioja](https://en.unir.net/).
 - **2015-2017**: Research Associate at the [MoreLab Research Group, University of Deusto](https://morelab.deusto.es/).
-- **2011-2017**: Research Assistant at the [Intelligent Systems Group, University of the Basque Country](http://www.sc.ehu.es/ccwbayes/).
+- **2011-2015**: Research Assistant at the [Intelligent Systems Group, University of the Basque Country](http://www.sc.ehu.es/ccwbayes/). In 2014 I did a 4-month research internship at the [APT Group, University of Manchester](http://apt.cs.manchester.ac.uk/).
 - **2008-2010**: Research Technician at [DeustoTech, University of Deusto](https://deustotech.deusto.es/).
 
 ### Education
