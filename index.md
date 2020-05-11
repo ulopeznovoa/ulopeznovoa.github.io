@@ -6,7 +6,7 @@ My contact e-mail: unai.lopez -at- ehu.eus
 
 ### Research
 
-My main research area is parallel and distributed computing, with focus on the performance analysis of High Performance Computing and Big Data systems. I am interested in finding ways to assess and exploit the performance of modern multi-core and many-core CPUs and coprocessors.
+My main research area is parallel and distributed computing, with focus on the performance analysis of High Performance Computing and Big Data systems. I am interested in assessing the performance of modern compute environments, like multi-core and many-core CPUs and coprocessors.
 
 Some of my recent works have studied the energy consumption of different Intel multi-core CPUs ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) and the scalability of a Large-Eddy Simulation Code in a large-scale compute cluster ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)).
 
@@ -30,18 +30,19 @@ Prior to September 2019 I have taught:
 
 This is a list of software that I have developed or contributed to.
 
-- **BIDS Toolbox**: A software to manage and process MRI data. Written in a collaboration with [Cardiff University Brain Research Imaging Centre](https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre). [Code repo](https://github.com/cardiff-brain-research-imaging-centre/bids-toolbox) and [paper](https://ieeexplore.ieee.org/document/9060259).
+- **RAPL-logger**: A tool to monitor energy consumption in Linux and Intel-based systems. [Code repo](https://github.com/ulopeznovoa/RAPL-logger) and [paper](https://ieeexplore.ieee.org/abstract/document/9060093/).
 - **Hydro3D**: Large-Eddy Simulation code written in OpenMP+MPI, used to simulate turbulent flows. It is developed at [HRC in Cardiff University](https://www.cardiff.ac.uk/research/explore/research-units/hydro-environmental-research-centre) and I contribute studying its scalability in collaboration with [Pablo Ouro](https://www.cardiff.ac.uk/people/view/507914-ouro-barba-pablo). [Code repo](https://github.com/OuroPablo/Hydro3D) and [paper](https://www.sciencedirect.com/science/article/pii/S0045793018307424).
+- **BIDS Toolbox**: A software to manage and process MRI data. Written in a collaboration with [Cardiff University Brain Research Imaging Centre](https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre). [Code repo](https://github.com/cardiff-brain-research-imaging-centre/bids-toolbox) and [paper](https://ieeexplore.ieee.org/document/9060259).
 - **S-KDE**: An OpenMP implementation of the Kernel Density Estimation technique, used to assess climate models. Written in collaboration with [Jon Sáenz](http://www.ehu.eus/eolo/jsaenz.html). [Code repo](https://github.com/ulopeznovoa/kde_openmp) and [paper](https://journals.sagepub.com/doi/abs/10.1177/1094342015576813).
 
 ### Work Experience
 
 - **2019-**___Now___: Assistant Professor of Computer Science, School of Engineering, University of the Basque Country.
-- **2017-2019**: Research Software Engineer at the [Data Innovation Research Institute, Cardiff University](https://www.cardiff.ac.uk/data-innovation-research-institute).
-- **2017 (Apr-Sep)**: Part-time MSc Thesis advisor at the [International University of La Rioja](https://en.unir.net/).
-- **2015-2017**: Research Associate at the [MoreLab Research Group, University of Deusto](https://morelab.deusto.es/).
-- **2011-2015**: Research Assistant at the [Intelligent Systems Group, University of the Basque Country](http://www.sc.ehu.es/ccwbayes/). In 2014 I did a 4-month research internship at the [APT Group, University of Manchester](http://apt.cs.manchester.ac.uk/).
-- **2008-2010**: Research Technician at [DeustoTech, University of Deusto](https://deustotech.deusto.es/).
+- **2017-2019**: Research Software Engineer, [Data Innovation Research Institute, Cardiff University](https://www.cardiff.ac.uk/data-innovation-research-institute).
+- **2017 (Apr-Sep)**: Part-time MSc Thesis advisor, [International University of La Rioja](https://en.unir.net/).
+- **2015-2017**: Research Associate, [MoreLab Research Group, University of Deusto](https://morelab.deusto.es/).
+- **2011-2015**: Research Assistant, [Intelligent Systems Group, University of the Basque Country](http://www.sc.ehu.es/ccwbayes/). In 2014 I did a 4-month research internship at the [APT Group, University of Manchester](http://apt.cs.manchester.ac.uk/).
+- **2008-2010**: Research Technician, [DeustoTech, University of Deusto](https://deustotech.deusto.es/).
 
 ### Education
 
@@ -53,8 +54,8 @@ This is a list of software that I have developed or contributed to.
 
 My institutional web page with information about office hours is available in [Basque](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/irakasleak?p_redirect=consultaTutorias&p_anyo_acad=20190&p_idp=458123) and [Spanish](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/profesorado?p_redirect=consultaTutorias&p_anyo_acad=20190&p_idp=458123).
 
-Address: _P3i17 Bulegoa, Bilboko Ingenieritza Eskola - II Eraikina, 48013 Bilbo, Spain_.
+Address: _Despacho P3i17, Escuela de Ingeniería de Bilbao - Edificio II, 48013 Bilbao (Spain)_.
 
 You can find me in social networks like [Twitter](https://twitter.com/ulopeznovoa), [LinkedIn](https://www.linkedin.com/in/unailopez) or [ResearchGate](https://www.researchgate.net/profile/Unai_Lopez-Novoa).
 
-I have a [SlideShare](https://www.slideshare.net/unlopez) profile with slides of some of my presentations/talks and a [GitHub](https://github.com/ulopeznovoa) profile with some software projects, including this webpage.
+I have a [SlideShare](https://www.slideshare.net/unlopez) profile with slides of my presentations/talks and a [GitHub](https://github.com/ulopeznovoa) profile with some software projects, including this webpage.
