@@ -46,9 +46,17 @@ This is a list of software that I have developed or contributed to.
 
 ### Education
 
-- **2015**: PhD in Computer Science. Thesis: [_Contributions to the Efficient Use of General Purpose Coprocessors: Kernel Density Estimation as Case Study_](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2015_phd_unai_lopez-nova.pdf), advised by [Jose Miguel-Alonso](http://www.sc.ehu.es/acwmialj/) and [Alexander Mendiburu](http://www.sc.ehu.es/ccwbayes/members/amendiburu/alex.html).
-- **2011**: MSc in Computer Science. Thesis: [_Parallelization of a Molecular Dynamics Simulation Code using OpenCL_](http://www.ehu.es/sgi/ARCHIVOS/MSIA_UnaiLopez.pdf), advised by Jose Miguel-Alonso and Alexander Mendiburu.
-- **2010**: BSc in Computer Science. Thesis: _A platform to enable shopping for the blind using mobile technologies_, advised by [Diego López-de-Ipiña](http://paginaspersonales.deusto.es/dipina/).
+- **2015**: PhD in Computer Science, University of the Basque Country, San Sebastian (Spain). 
+
+Thesis: [_Contributions to the Efficient Use of General Purpose Coprocessors: Kernel Density Estimation as Case Study_](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2015_phd_unai_lopez-nova.pdf), advised by [Jose Miguel-Alonso](http://www.sc.ehu.es/acwmialj/) and [Alexander Mendiburu](http://www.sc.ehu.es/ccwbayes/members/amendiburu/alex.html).
+
+- **2011**: MSc in Computer Science, University of the Basque Country, San Sebastian (Spain). 
+
+Thesis: [_Parallelization of a Molecular Dynamics Simulation Code using OpenCL_](http://www.ehu.es/sgi/ARCHIVOS/MSIA_UnaiLopez.pdf), advised by Jose Miguel-Alonso and Alexander Mendiburu.
+
+- **2010**: BSc in Computer Science, University of Deusto, Bilbao (Spain). 
+
+Thesis: _A platform to enable shopping for the blind using mobile technologies_, advised by [Diego López-de-Ipiña](http://paginaspersonales.deusto.es/dipina/).
 
 ### Contact and Social Media
 
