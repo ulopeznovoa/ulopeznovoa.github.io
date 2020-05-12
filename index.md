@@ -30,7 +30,7 @@ Prior to September 2019 I have taught:
 
 This is a list of software that I have developed or contributed to.
 
-- **RAPL-logger**: A tool to monitor energy consumption in Linux and Intel-based systems. [Code repo](https://github.com/ulopeznovoa/RAPL-logger) and [paper](https://ieeexplore.ieee.org/abstract/document/9060093/).
+- **RAPL-logger**: A tool to monitor energy consumption in Linux and Intel-based systems using [RAPL](https://ieeexplore.ieee.org/abstract/document/5599016). [Code repo](https://github.com/ulopeznovoa/RAPL-logger) and [paper](https://ieeexplore.ieee.org/abstract/document/9060093/).
 - **Hydro3D**: Large-Eddy Simulation code written in OpenMP+MPI, used to simulate turbulent flows. It is developed at [HRC in Cardiff University](https://www.cardiff.ac.uk/research/explore/research-units/hydro-environmental-research-centre) and I contribute studying its scalability in collaboration with [Pablo Ouro](https://www.cardiff.ac.uk/people/view/507914-ouro-barba-pablo). [Code repo](https://github.com/OuroPablo/Hydro3D) and [paper](https://www.sciencedirect.com/science/article/pii/S0045793018307424).
 - **BIDS Toolbox**: A software to manage and process MRI data. Written in a collaboration with [Cardiff University Brain Research Imaging Centre](https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre). [Code repo](https://github.com/cardiff-brain-research-imaging-centre/bids-toolbox) and [paper](https://ieeexplore.ieee.org/document/9060259).
 - **S-KDE**: An OpenMP implementation of the Kernel Density Estimation technique, used to assess climate models. Written in collaboration with [Jon Sáenz](http://www.ehu.eus/eolo/jsaenz.html). [Code repo](https://github.com/ulopeznovoa/kde_openmp) and [paper](https://journals.sagepub.com/doi/abs/10.1177/1094342015576813).
@@ -48,10 +48,8 @@ This is a list of software that I have developed or contributed to.
 
 - **2015**: PhD in Computer Science. University of the Basque Country, San Sebastian (Spain).  
 Thesis: [_Contributions to the Efficient Use of General Purpose Coprocessors: Kernel Density Estimation as Case Study_](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2015_phd_unai_lopez-nova.pdf), advised by [Jose Miguel-Alonso](http://www.sc.ehu.es/acwmialj/) and [Alexander Mendiburu](http://www.sc.ehu.es/ccwbayes/members/amendiburu/alex.html).
-
 - **2011**: MSc in Computer Science. University of the Basque Country, San Sebastian (Spain).  
 Thesis: [_Parallelization of a Molecular Dynamics Simulation Code using OpenCL_](http://www.ehu.es/sgi/ARCHIVOS/MSIA_UnaiLopez.pdf), advised by Jose Miguel-Alonso and Alexander Mendiburu.
-
 - **2010**: BSc in Computer Science. University of Deusto, Bilbao (Spain).  
 Thesis: _A platform to enable shopping for the blind using mobile technologies_, advised by [Diego López-de-Ipiña](http://paginaspersonales.deusto.es/dipina/).
 
