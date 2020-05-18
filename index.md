@@ -6,7 +6,7 @@ My contact e-mail: unai.lopez -at- ehu.eus
 
 ### Research
 
-My main research area is parallel and distributed computing, with focus on the performance analysis of High Performance Computing and Big Data systems. I am interested in assessing the performance of modern compute environments, like multi-core and many-core CPUs and coprocessors.
+My main research area is parallel and distributed computing, with focus on the performance analysis of High Performance Computing and Big Data systems. I am interested in assessing the performance of modern compute environments, like multi-core CPUs and many-core coprocessors.
 
 Some of my recent works have studied the energy consumption of different Intel multi-core CPUs ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) and the scalability of a Large-Eddy Simulation Code in a large-scale compute cluster ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)).
 
@@ -41,7 +41,8 @@ This is a list of software that I have developed or contributed to.
 - **2017-2019**: Research Software Engineer, [Data Innovation Research Institute, Cardiff University](https://www.cardiff.ac.uk/data-innovation-research-institute).
 - **2017 (Apr-Sep)**: Part-time MSc Thesis advisor, [International University of La Rioja](https://en.unir.net/).
 - **2015-2017**: Research Associate, [MoreLab Research Group, University of Deusto](https://morelab.deusto.es/).
-- **2011-2015**: Research Assistant, [Intelligent Systems Group, University of the Basque Country](http://www.sc.ehu.es/ccwbayes/). In 2014 I did a 4-month research internship at the [APT Group, University of Manchester](http://apt.cs.manchester.ac.uk/).
+- **2011-2015**: Research Assistant, [Intelligent Systems Group, University of the Basque Country](http://www.sc.ehu.es/ccwbayes/).  
+In 2014 I did a 4-month research internship at the [APT Group, University of Manchester](http://apt.cs.manchester.ac.uk/).
 - **2008-2010**: Research Technician, [DeustoTech, University of Deusto](https://deustotech.deusto.es/).
 
 ### Education
