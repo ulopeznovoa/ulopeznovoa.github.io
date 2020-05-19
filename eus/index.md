@@ -16,8 +16,6 @@ TBD
 
 ### Lan esperientzia
 
-TBD
-
 - **2019-**___Orain___: Irakasle atxikia, [Lengoaia eta Sistema Informatikoak Saila
 ](https://www.ehu.eus/eu/web/lsi/), Bilboko Ingeniaritza Eskola, EHU.
 - **2017-2019**: Ikerkuntza Software Ingeniaria, [Data Innovation Research Institute, Cardiffeko Unibertsitatea](https://www.cardiff.ac.uk/data-innovation-research-institute).
