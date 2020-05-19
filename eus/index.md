@@ -20,7 +20,12 @@ TBD
 
 ### Software
 
-TBD
+Hemen garatu ditudan edo kolaboratzen dudan Software proiektu batzuk:
+
+- **RAPL-logger**: Intel CPU duten Linux sistemetan energia kontsumoa neurtzeko tresna, [RAPL](https://ieeexplore.ieee.org/abstract/document/5599016) interfazea erabiliz. [Kode biltegia](https://github.com/ulopeznovoa/RAPL-logger) eta [artikulua](https://ieeexplore.ieee.org/abstract/document/9060093/).
+- **Hydro3D**: Zurrunbilo Handien Simulazio kodea, OpenMP eta MPI liburutegiekin garatua. Fluxu zurrunbilotsuak eta itsasgorak simulatzeko erabiltzen da. [Cardiffeko Unibertsitateko HRC taldean](https://www.cardiff.ac.uk/research/explore/research-units/hydro-environmental-research-centre) garatzen da eta bere eskalagarritasuna aztertzen dut [Pablo Ouro](https://www.cardiff.ac.uk/people/view/507914-ouro-barba-pablo)rekin batera. [Kode biltegia](https://github.com/OuroPablo/Hydro3D) eta [artikulua](https://www.sciencedirect.com/science/article/pii/S0045793018307424).
+- **BIDS Toolbox**: Erresonantzia magnetiko bidezko irudiak prozesatu eta kudeatzeko tresna. [Cardiff University Brain Research Imaging Centre](https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre) gunearekin lankidetzan garatua. [Kode biltegia](https://github.com/cardiff-brain-research-imaging-centre/bids-toolbox) eta [artikulua](https://ieeexplore.ieee.org/document/9060259).
+- **S-KDE**: An OpenMP implementation of the Kernel Density Estimation technique, used to assess climate models. Written in collaboration with [Jon Sáenz](http://www.ehu.eus/eolo/jsaenz.html). [Code repo](https://github.com/ulopeznovoa/kde_openmp) and [paper](https://journals.sagepub.com/doi/abs/10.1177/1094342015576813).
 
 ### Lan esperientzia
 
