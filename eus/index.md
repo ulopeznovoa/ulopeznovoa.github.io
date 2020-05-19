@@ -8,8 +8,6 @@ TBD
 
 ### Irakaskuntza
 
-TBD
-
 2019ko Irailean hasi nintzen irakasle bezala Bilboko Ingeniaritza Eskolan. Handik hona, hurrengo irakasgaiak irakatsi ditut:
 
 - _Software Garapen Aurreratua_, Kudeaketaren eta Informazio Sistemen Informatikaren Ingeniaritzako Gradua, 4. maila (Fitxa osoa [euskeraz](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)/[gazteleraz](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)).
