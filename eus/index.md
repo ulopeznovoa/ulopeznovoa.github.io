@@ -18,9 +18,9 @@ TBD
 
 TBD
 
-- **2019-**___Now___: Irakasle atxikia, [Lengoaia eta Sistema Informatikoak Saila
+- **2019-**___Orain___: Irakasle atxikia, [Lengoaia eta Sistema Informatikoak Saila
 ](https://www.ehu.eus/eu/web/lsi/), Bilboko Ingeniaritza Eskola, EHU.
-- **2017-2019**: Ikerkuntza Software Ingeniaria, [Data Innovation Research Institute, Cardiff University](https://www.cardiff.ac.uk/data-innovation-research-institute).
+- **2017-2019**: Ikerkuntza Software Ingeniaria, [Data Innovation Research Institute, Cardiffeko Unibertsitatea](https://www.cardiff.ac.uk/data-innovation-research-institute).
 - **2017 (Apr-Sep)**: Master Amaierako Lan zuzendaria, lanaldi partzialean, [Errioxako Nazioarteko Unibertsitatea](https://unir.net/).
 - **2015-2017**: Ikertzaile Elkartua, [MoreLab Ikerketa Taldea, Deustuko Unibertsitatea](https://morelab.deusto.es/).
 - **2011-2015**: Doktoretza Ikaslea, [Intelligent Systems Group, EHU](http://www.sc.ehu.es/ccwbayes/).  
