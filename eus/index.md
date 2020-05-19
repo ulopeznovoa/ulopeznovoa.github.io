@@ -10,6 +10,16 @@ TBD
 
 TBD
 
+2019ko Irailean hasi nintzen irakasle bezala Bilboko Ingeniaritza Eskolan. Handik hona, hurrengo irakasgaiak irakatsi ditut:
+
+- _Software Garapen Aurreratua_, Kudeaketaren eta Informazio Sistemen Informatikaren Ingeniaritzako Gradua, 4. maila (Fitxa osoa [euskeraz](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)/[gazteleraz](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)).
+- _Informatikaren Oinarriak_, Ingeniaritza Elektrikoko Gradua, 1. maila (Fitxa osoa [euskeraz](https://www.ehu.eus/eu/ingeniaritza-elektrikoko-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=1&p_cod_asignatura=27679)/[gazteleraz](https://www.ehu.eus/es/grado-ingenieria-electrica-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=1&p_cod_asignatura=27679)).
+
+2019 baino lehen honako irakaskuntza egin nuen:
+
+- 2017: _Programazioa C erabiliz_, Ingeniaritza Fakultatea, Deustuko Unibertsitatea. 
+- 2014: _Konputagailu Sareen Oinarriak_, Informatika Fakultatea, EHU (Laborategi praktiketako irakasle laguntzailea).
+
 ### Software
 
 TBD
