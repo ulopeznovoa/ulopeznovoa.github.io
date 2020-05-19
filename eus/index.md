@@ -16,8 +16,7 @@ TBD
 
 ### Lan esperientzia
 
-- **2019-**___Orain___: Irakasle atxikia, [Lengoaia eta Sistema Informatikoak Saila
-](https://www.ehu.eus/eu/web/lsi/), EHU.
+- **2019-**___Orain___: Irakasle atxikia, [Lengoaia eta Sistema Informatikoak Saila](https://www.ehu.eus/eu/web/lsi/), EHU.
 - **2017-2019**: Ikerkuntza Software Ingeniaria, [DIRI Taldea, Cardiffeko Unibertsitatea](https://www.cardiff.ac.uk/data-innovation-research-institute).
 - **2017 (Ap-Ir)**: Master Amaierako Lan zuzendaria, [Errioxako Nazioarteko Unibertsitatea](https://unir.net/).
 - **2015-2017**: Ikertzaile Elkartua, [MoreLab Ikerketa Taldea, Deustuko Unibertsitatea](https://morelab.deusto.es/).
