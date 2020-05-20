@@ -4,7 +4,11 @@ Nire helbide elektronikoa: unai.lopez -a-bildua- ehu.eus
 
 ### Ikerkuntza
 
+Nire ikerketa arlo nagusia konputazio paralelo eta banatua da, konkretuki Eraginkortasun Handiko Konputazio _(High Performance Computing)_ eta Datu Handien _(Big Data)_ sistemen errendimendua aztertzea.
+
 TBD
+
+Nire argitalpenak zerrendatuta daude [Google Scholar](https://scholar.google.es/citations?user=Z8HTo5MAAAAJ) eta [DBLP](https://dblp.org/pers/l/Lopez=Novoa:Unai.html) guneetan.
 
 ### Irakaskuntza
 
@@ -20,7 +24,7 @@ TBD
 
 ### Software
 
-Hemen garatu ditudan edo kolaboratzen dudan Software proiektu batzuk:
+Zerrendatuta hemen garatu ditudan edo kolaboratzen dudan Software proiektu batzuk:
 
 - **RAPL-logger**: Intel CPU duten Linux sistemetan energia kontsumoa neurtzeko tresna, [RAPL](https://ieeexplore.ieee.org/abstract/document/5599016) interfazea erabiliz. [Kode biltegia](https://github.com/ulopeznovoa/RAPL-logger) eta [artikulua](https://ieeexplore.ieee.org/abstract/document/9060093/).
 - **Hydro3D**: Zurrunbilo Handien Simulazio kodea, OpenMP eta MPI liburutegiekin garatua. Fluxu zurrunbilotsuak eta itsasgorak simulatzeko erabiltzen da. [Cardiffeko Unibertsitateko HRC taldean](https://www.cardiff.ac.uk/research/explore/research-units/hydro-environmental-research-centre) garatzen da eta bere eskalagarritasuna aztertzen dut [Pablo Ouro](https://www.cardiff.ac.uk/people/view/507914-ouro-barba-pablo)rekin batera. [Kode biltegia](https://github.com/OuroPablo/Hydro3D) eta [artikulua](https://www.sciencedirect.com/science/article/pii/S0045793018307424).
