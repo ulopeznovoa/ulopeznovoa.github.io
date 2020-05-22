@@ -45,9 +45,9 @@ Zerrenda honetan garatu ditudan edo kolaboratzen dudan Software proiektu batzuk:
 - **2015**: Doktoretza, Ingeniaritza Informatikoa. Informatika fakultatea, EHU. Donostia.  
 Tesia: [_Contributions to the Efficient Use of General Purpose Coprocessors: Kernel Density Estimation as Case Study_](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2015_phd_unai_lopez-nova.pdf), zuzendariak: [Jose Miguel-Alonso](http://www.sc.ehu.es/acwmialj/) eta [Alexander Mendiburu](http://www.sc.ehu.es/ccwbayes/members/amendiburu/alex.html).
 - **2011**: Masterra, Sistema Informatiko Aurreratuak. Informatika fakultatea, EHU. Donostia.  
-Tesia: [_Parallelization of a Molecular Dynamics Simulation Code using OpenCL_](http://www.ehu.es/sgi/ARCHIVOS/MSIA_UnaiLopez.pdf), zuzendariak: Jose Miguel-Alonso eta Alexander Mendiburu.
+Amaierako lana: [_Parallelization of a Molecular Dynamics Simulation Code using OpenCL_](http://www.ehu.es/sgi/ARCHIVOS/MSIA_UnaiLopez.pdf), zuzendariak: Jose Miguel-Alonso eta Alexander Mendiburu.
 - **2010**: Ingeniaritza Informatikoa. Deustuko Unibertsitatea, Bilbo.  
-Tesia: _A platform to enable shopping for the blind using mobile technologies_, zuzendaria: [Diego López-de-Ipiña](http://paginaspersonales.deusto.es/dipina/).
+Amaierako lana: _A platform to enable shopping for the blind using mobile technologies_, zuzendaria: [Diego López-de-Ipiña](http://paginaspersonales.deusto.es/dipina/).
 
 ### Kontaktu eta sare sozialak
 
