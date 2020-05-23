@@ -1,12 +1,18 @@
 Ingeniaritza Informatikako Irakasle Atxikia naiz [Euskal Herriko Unibertsitatean (EHU)](https://www.ehu.eus/eu), [Bilboko Ingeniaritza Eskolan](https://www.ehu.eus/eu/web/ingeniaritza-bilbo).
 
+This website shows a brief synopsis of my research, a summary of my professional experience and ways to contact me.
+
+Webgune honetan nire ikerkuntzaren azalpenak, lan esperientziaren laburpen bat eta harremanetan jartzeko erak aurkitu daitezke. _This website is available in English [here](https://ulopeznovoa.github.io/)_.
+
 Nire helbide elektronikoa: unai.lopez -a-bildua- ehu.eus
 
 ### Ikerkuntza
 
 Nire ikerketa arlo nagusia konputazio paralelo eta banatua da, konkretuki Eraginkortasun Handiko Konputazio _(High Performance Computing)_ eta Datu Handien _(Big Data)_ sistemen errendimendua aztertzea.
 
-TBD
+Nire azken lanek Intel CPU-en energia kontsumoa aztertu ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) eta Zurrunbilo Handien Simulazio kode baten eskalagarritasuna ikertu dute ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)).
+
+Iraganean informatikako beste arloetako ikerkeketa proiektuetan lan egin dut, adibidez, IoT eta konputazio mugikorrean ([CPSS 2019](http://ceur-ws.org/Vol-2530/paper7.pdf), [IWAAL 2011](https://link.springer.com/chapter/10.1007/978-3-642-21303-8_5)) eta Gizakietan oinarritutako konputazioan ([UIC 2017](https://ieeexplore.ieee.org/abstract/document/8397542/)).
 
 Nire argitalpenak [Google Scholar](https://scholar.google.es/citations?user=Z8HTo5MAAAAJ) eta [DBLP](https://dblp.org/pers/l/Lopez=Novoa:Unai.html) guneetan zerrendatuta daude.
 
