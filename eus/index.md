@@ -1,8 +1,6 @@
 Ingeniaritza Informatikako Irakasle Atxikia naiz [Euskal Herriko Unibertsitatean (EHU)](https://www.ehu.eus/eu), [Bilboko Ingeniaritza Eskolan](https://www.ehu.eus/eu/web/ingeniaritza-bilbo).
 
-This website shows a brief synopsis of my research, a summary of my professional experience and ways to contact me.
-
-Webgune honetan nire ikerkuntzaren azalpenak, lan esperientziaren laburpen bat eta harremanetan jartzeko erak aurkitu daitezke. _This website is available in English [here](https://ulopeznovoa.github.io/)_.
+Webgune honetan nire ikerkuntzaren deskribapena, lan esperientziaren laburpena eta harremanetan jartzeko erak aurkitu daitezke. _This website is available in English [here](https://ulopeznovoa.github.io/)_.
 
 Nire helbide elektronikoa: unai.lopez -a-bildua- ehu.eus
 
