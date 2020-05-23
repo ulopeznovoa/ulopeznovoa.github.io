@@ -1,6 +1,6 @@
 I am an Assistant Professor of Computer Science at the [University of the Basque Country](https://www.ehu.eus/en). I am based at the [School of Engineering in Bilbao](https://www.ehu.eus/en/web/ingeniaritza-bilbo).
 
-This website shows a brief synopsis of my research, a summary of my professional experience and ways to contact me. _Webgune hau euskeraz ikusi daiteke [hemen](https://ulopeznovoa.github.io/eus/)_.
+This website shows a brief synopsis of my research, a summary of my professional experience and ways to contact me. _Webgune hau euskeraz [hemen](https://ulopeznovoa.github.io/eus/)_ ikusi daiteke.
 
 My contact e-mail: unai.lopez -at- ehu.eus
 
