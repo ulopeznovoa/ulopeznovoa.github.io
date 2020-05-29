@@ -6,7 +6,7 @@ My contact e-mail: unai.lopez -at- ehu.eus
 
 ### Research
 
-My main research area is parallel and distributed computing, with focus on the performance analysis of High Performance Computing and Big Data systems. I am interested in assessing the performance of modern compute environments, like multi-core CPUs and many-core coprocessors.
+My main research area is parallel and distributed computing, with focus on the performance analysis of High Performance Computing and Big Data systems. I am interested in assessing the performance of modern compute environments and in building scalable data processing systems.
 
 Some of my recent works have studied the energy consumption of different Intel multi-core CPUs ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) and the scalability of a Large-Eddy Simulation Code in a large-scale compute cluster ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)).
 
