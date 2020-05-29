@@ -8,7 +8,7 @@ Nire helbide elektronikoa: unai.lopez -a-bildua- ehu.eus
 
 Nire ikerketa arlo nagusia konputazio paralelo eta banatua da, konkretuki Eraginkortasun Handiko Konputazio _(High Performance Computing)_ eta Datu Handien _(Big Data)_ sistemen errendimendua aztertzea.
 
-Nire azken lanek Intel CPU-en energia kontsumoa aztertu ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) eta Zurrunbilo Handien Simulazio kode baten eskalagarritasuna ikertu dute ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)).
+Nire azken lanek Intel CPU-en energia kontsumoa aztertu ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) eta Zurrunbilo Handien Simulazio kode baten eskalagarritasuna ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)) ikertu dute.
 
 Iraganean informatikako beste arloetako ikerkeketa proiektuetan lan egin dut, adibidez, IoT eta konputazio mugikorrean ([CPSS 2019](http://ceur-ws.org/Vol-2530/paper7.pdf), [IWAAL 2011](https://link.springer.com/chapter/10.1007/978-3-642-21303-8_5)) eta Gizakietan oinarritutako konputazioan ([UIC 2017](https://ieeexplore.ieee.org/abstract/document/8397542/)).
 
