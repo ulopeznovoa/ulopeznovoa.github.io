@@ -1,6 +1,6 @@
 I am an Assistant Professor of Computer Science at the [University of the Basque Country](https://www.ehu.eus/en). I am based at the [School of Engineering in Bilbao](https://www.ehu.eus/en/web/ingeniaritza-bilbo).
 
-This website shows a brief synopsis of my research, a summary of my professional experience and ways to contact me. _Webgune hau euskeraz [hemen](https://ulopeznovoa.github.io/eus/)_ ikusi daiteke.
+This website shows a brief synopsis of my research, a summary of my professional experience and ways to contact me. _Webgune hau euskeraz [hemen](https://ulopeznovoa.github.io/eus/) ikusi daiteke_.
 
 My contact e-mail: unai.lopez -at- ehu.eus
 
@@ -19,8 +19,10 @@ A list of publications is available in [Google Scholar](https://scholar.google.e
 I joined the School of Engineering as faculty in September 2019, where I teach:
 
 - _Systems Administration_, BSc in Computing and Information Systems, 4th year (Syllabus in [Basque](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20200&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)/[Spanish](https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20200&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)).
-- _Advanced Software Development_, BSc in Computing and Information Systems, 4th year (Syllabus in [Basque](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)/[Spanish](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)).
-- _Fundamentals of Computer Science_, BSc in Electrical Engineering, 1st year (Syllabus in [Basque](https://www.ehu.eus/eu/ingeniaritza-elektrikoko-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=1&p_cod_asignatura=27679)/[Spanish](https://www.ehu.eus/es/grado-ingenieria-electrica-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=1&p_cod_asignatura=27679)).
+- _Advanced Software Development_, BSc in Computing and Information Systems, 4th year (Syllabus in [Basque](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20200&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)/[Spanish](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20200&p_ciclo=X&p_curso=4&p_cod_asignatura=27712)).
+- _Fundamentals of Computer Science_, BSc in Electrical Engineering, 1st year (2019/20 academic year).
+
+<!-- Fundamentals of Computer Science URLs:  Syllabus in [Basque](https://www.ehu.eus/eu/ingeniaritza-elektrikoko-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=1&p_cod_asignatura=27679)/[Spanish](https://www.ehu.eus/es/grado-ingenieria-electrica-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=1&p_cod_asignatura=27679) -->
 
 Prior to September 2019 I have taught:
 
