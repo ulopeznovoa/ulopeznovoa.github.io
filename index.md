@@ -41,7 +41,7 @@ This is a list of software that I have developed or contributed to.
 
 ### Work Experience
 
-- **2019-**___Now___: Assistant Professor of Computer Science, [Department of Computer Languages and Systems](https://www.ehu.eus/es/web/lsi/), School of Engineering, University of the Basque Country.
+- **2019-**___Now___: Assistant Professor, [Department of Computer Languages and Systems](https://www.ehu.eus/es/web/lsi/), University of the Basque Country.
 - **2017-2019**: Research Software Engineer, [Data Innovation Research Institute, Cardiff University](https://www.cardiff.ac.uk/data-innovation-research-institute).
 - **2017 (Apr-Sep)**: Part-time MSc Thesis advisor, [International University of La Rioja](https://en.unir.net/).
 - **2015-2017**: Research Associate, [MoreLab Research Group, University of Deusto](https://morelab.deusto.es/).
