@@ -60,7 +60,7 @@ Thesis: _A platform to enable shopping for the blind using mobile technologies_,
 
 ### Contact and Social Media
 
-My institutional web page with information about office hours is available in [Basque](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/irakasleak?p_redirect=consultaTutorias&p_anyo_acad=20200&p_idp=458123) and [Spanish](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/profesorado?p_redirect=consultaTutorias&p_anyo_acad=20200&p_idp=458123).
+My institutional web page with information about office hours is available in [Basque](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/irakasleak?p_redirect=consultaTutorias&p_anyo_acad=20210&p_idp=458123) and [Spanish](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/profesorado?p_redirect=consultaTutorias&p_anyo_acad=20210&p_idp=458123).
 
 Address: _Despacho P3i17, Escuela de Ingeniería de Bilbao - Edificio II, 48013 Bilbao (Spain)_.
 
