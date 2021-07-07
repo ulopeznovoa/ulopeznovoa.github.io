@@ -59,7 +59,7 @@ Amaierako lana: _A platform to enable shopping for the blind using mobile techno
 
 ### Kontaktu eta sare sozialak
 
-Nire EHU webgune ofiziala informazio akademiko eta tutoretza orduekin [hemen](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/irakasleak?p_redirect=consultaTutorias&p_anyo_acad=20200&p_idp=458123), gazteleraz [hemen](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/profesorado?p_redirect=consultaTutorias&p_anyo_acad=20200&p_idp=458123).
+Nire EHU webgune ofiziala informazio akademiko eta tutoretza orduekin [hemen](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/irakasleak?p_redirect=consultaTutorias&p_anyo_acad=20210&p_idp=458123), gazteleraz [hemen](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/profesorado?p_redirect=consultaTutorias&p_anyo_acad=20210&p_idp=458123).
 
 Helbidea: _P3i17 bulegoa, Bilboko Ingeniaritza Eskola - II Eraikina, 48013 Bilbo_.
 
