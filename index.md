@@ -8,7 +8,7 @@ My contact e-mail: unai.lopez -at- ehu.eus
 
 My main research area is parallel and distributed computing, with focus on the performance analysis of High Performance Computing and Big Data systems. I am interested in assessing the performance of modern compute environments and in building scalable data processing systems.
 
-Some of my recent works have studied the scalability of [Hydro3D](https://github.com/OuroPablo/Hydro3D), a distributed Large-Eddy Simulation code, in AMD, ARM & Intel based computer clusters [CPC 2021](https://www.sciencedirect.com/science/article/pii/S0010465521002174) and the energy consumption of different Intel multi-core CPUs ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)).
+Some of my recent works have studied the scalability of [Hydro3D](https://github.com/OuroPablo/Hydro3D), a distributed Large-Eddy Simulation code, in AMD, ARM & Intel based computer clusters ([CPC 2021](https://www.sciencedirect.com/science/article/pii/S0010465521002174)) and the energy consumption of different Intel multi-core CPUs ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)).
 
 In the past I have also worked in research projects related to other fields of Computer Science, like IoT/mobile computing ([CPSS 2019](http://ceur-ws.org/Vol-2530/paper7.pdf), [IWAAL 2011](https://link.springer.com/chapter/10.1007/978-3-642-21303-8_5)) and Human-based computation ([UIC 2017](https://ieeexplore.ieee.org/abstract/document/8397542/)).
 
