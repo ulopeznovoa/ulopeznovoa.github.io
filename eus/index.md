@@ -8,7 +8,7 @@ Nire helbide elektronikoa: unai.lopez -a-bildua- ehu.eus
 
 Nire ikerketa arlo nagusia konputazio paralelo eta banatua da, konkretuki Eraginkortasun Handiko Konputazio _(High Performance Computing)_ eta Datu Handien _(Big Data)_ sistemen errendimendua aztertzea.
 
-Nire azken lanek Intel CPU-en energia kontsumoa aztertu ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) eta Zurrunbilo Handien Simulazio kode baten eskalagarritasuna ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)) ikertu dute.
+Nire azken lanek [Hydro3D](https://github.com/OuroPablo/Hydro3D) Zurrunbilo Handien Simulazio kodearen eskalagarritasuna AMD, ARM eta Intel prozesadoretan oinarritutako superkonputadoretan ([CPC 2021](https://www.sciencedirect.com/science/article/pii/S0010465521002174)) eta Intel CPU-en energia kontsumoa ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) aztertu dute.
 
 Iraganean informatikako beste arloetako ikerkeketa proiektuetan lan egin dut, adibidez, IoT eta konputazio mugikorrean ([CPSS 2019](http://ceur-ws.org/Vol-2530/paper7.pdf), [IWAAL 2011](https://link.springer.com/chapter/10.1007/978-3-642-21303-8_5)) eta Gizakietan oinarritutako konputazioan ([UIC 2017](https://ieeexplore.ieee.org/abstract/document/8397542/)).
 
@@ -30,6 +30,7 @@ Nire argitalpenak [Google Scholar](https://scholar.google.es/citations?user=Z8HT
 - 2017: _Programazioa C erabiliz_, Ingeniaritza Fakultatea, Deustuko Unibertsitatea. 
 - 2014: _Konputagailu Sareen Oinarriak_, Informatika Fakultatea, EHU (Laborategi praktiketako irakasle laguntzailea).
 
+<!--
 ### Software
 
 Zerrenda honetan garatu ditudan edo kolaboratzen dudan Software proiektu batzuk:
@@ -37,7 +38,7 @@ Zerrenda honetan garatu ditudan edo kolaboratzen dudan Software proiektu batzuk:
 - **RAPL-logger**: Intel CPU duten Linux sistemetan energia kontsumoa neurtzeko tresna, [RAPL](https://ieeexplore.ieee.org/abstract/document/5599016) interfazea erabiliz. [Kode biltegia](https://github.com/ulopeznovoa/RAPL-logger) eta [artikulua](https://ieeexplore.ieee.org/abstract/document/9060093/).
 - **Hydro3D**: Zurrunbilo Handien Simulazio kodea, OpenMP eta MPI liburutegiekin garatua. Fluxu zurrunbilotsuak eta itsasgorak simulatzeko erabiltzen da. [Cardiffeko Unibertsitateko HRC taldean](https://www.cardiff.ac.uk/research/explore/research-units/hydro-environmental-research-centre) garatzen da eta bere eskalagarritasuna aztertzen dut [Pablo Ouro](https://www.research.manchester.ac.uk/portal/pablo.ouro.html)rekin batera. [Kode biltegia](https://github.com/OuroPablo/Hydro3D) eta [artikulua](https://www.sciencedirect.com/science/article/pii/S0045793018307424).
 - **BIDS Toolbox**: Erresonantzia magnetiko bidezko irudiak prozesatu eta kudeatzeko tresna. [Cardiff University Brain Research Imaging Centre](https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre) gunearekin lankidetzan garatua. [Kode biltegia](https://github.com/cardiff-brain-research-imaging-centre/bids-toolbox) eta [artikulua](https://ieeexplore.ieee.org/document/9060259).
-- **S-KDE**: Nukleoen Dentsitatearen Balioespena teknikaren OpenMP inplementazioa, eredu klimatikoak ebaluatzeko erabili izan dena. EHU [EOLO](http://www.ehu.eus/eolo/) taldeko [Jon Sáenz](http://www.ehu.eus/eolo/jsaenz.html)ekin idatzia. [Kode biltegia](https://github.com/ulopeznovoa/kde_openmp) eta [artikulua](https://journals.sagepub.com/doi/abs/10.1177/1094342015576813).
+- **S-KDE**: Nukleoen Dentsitatearen Balioespena teknikaren OpenMP inplementazioa, eredu klimatikoak ebaluatzeko erabili izan dena. EHU [EOLO](http://www.ehu.eus/eolo/) taldeko [Jon Sáenz](http://www.ehu.eus/eolo/jsaenz.html)ekin idatzia. [Kode biltegia](https://github.com/ulopeznovoa/kde_openmp) eta [artikulua](https://journals.sagepub.com/doi/abs/10.1177/1094342015576813). -->
 
 ### Lan esperientzia
 
