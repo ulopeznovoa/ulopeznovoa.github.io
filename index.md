@@ -8,7 +8,7 @@ My contact e-mail: unai.lopez -at- ehu.eus
 
 My main research area is parallel and distributed computing, with focus on the performance analysis of High Performance Computing and Big Data systems. I am interested in assessing the performance of modern compute environments and in building scalable data processing systems.
 
-Some of my recent works have studied the energy consumption of different Intel multi-core CPUs ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) and the scalability of a Large-Eddy Simulation Code in a large-scale compute cluster ([C&F 2019](https://www.sciencedirect.com/science/article/pii/S0045793018307424)).
+Some of my recent works have studied the scalability of [Hydro3D](https://github.com/OuroPablo/Hydro3D), a distributed Large-Eddy Simulation code, in AMD, ARM & Intel based computer clusters [CPC 2021](https://www.sciencedirect.com/science/article/pii/S0010465521002174) and the energy consumption of different Intel multi-core CPUs ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)).
 
 In the past I have also worked in research projects related to other fields of Computer Science, like IoT/mobile computing ([CPSS 2019](http://ceur-ws.org/Vol-2530/paper7.pdf), [IWAAL 2011](https://link.springer.com/chapter/10.1007/978-3-642-21303-8_5)) and Human-based computation ([UIC 2017](https://ieeexplore.ieee.org/abstract/document/8397542/)).
 
@@ -30,6 +30,7 @@ Prior to September 2019 I have taught:
 - 2017: _Programming with C_, School of Engineering, University of Deusto. 
 - 2014: _Introduction to computer networking_, School of Computer Science, University of the Basque Country (Teaching assistant for the practice sessions)
 
+<!--
 ### Software
 
 This is a list of software that I have developed or contributed to.
@@ -37,7 +38,7 @@ This is a list of software that I have developed or contributed to.
 - **RAPL-logger**: A tool to monitor energy consumption in Linux and Intel-based systems using [RAPL](https://ieeexplore.ieee.org/abstract/document/5599016). [Code repo](https://github.com/ulopeznovoa/RAPL-logger) and [paper](https://ieeexplore.ieee.org/abstract/document/9060093/).
 - **Hydro3D**: Large-Eddy Simulation code written in OpenMP+MPI, used to simulate turbulent flows. It is developed at [HRC in Cardiff University](https://www.cardiff.ac.uk/research/explore/research-units/hydro-environmental-research-centre) and I contribute studying its scalability in collaboration with [Pablo Ouro](https://www.research.manchester.ac.uk/portal/pablo.ouro.html). [Code repo](https://github.com/OuroPablo/Hydro3D) and [paper](https://www.sciencedirect.com/science/article/pii/S0045793018307424).
 - **BIDS Toolbox**: A software to manage and process MRI data. Written in a collaboration with [Cardiff University Brain Research Imaging Centre](https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre). [Code repo](https://github.com/cardiff-brain-research-imaging-centre/bids-toolbox) and [paper](https://ieeexplore.ieee.org/document/9060259).
-- **S-KDE**: An OpenMP implementation of the Kernel Density Estimation technique, used to assess climate models. Written in collaboration with [Jon Sáenz](http://www.ehu.eus/eolo/jsaenz.html). [Code repo](https://github.com/ulopeznovoa/kde_openmp) and [paper](https://journals.sagepub.com/doi/abs/10.1177/1094342015576813).
+- **S-KDE**: An OpenMP implementation of the Kernel Density Estimation technique, used to assess climate models. Written in collaboration with [Jon Sáenz](http://www.ehu.eus/eolo/jsaenz.html). [Code repo](https://github.com/ulopeznovoa/kde_openmp) and [paper](https://journals.sagepub.com/doi/abs/10.1177/1094342015576813). -->
 
 ### Work Experience
 
