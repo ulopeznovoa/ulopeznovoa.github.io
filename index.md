@@ -57,7 +57,7 @@ Thesis: [_Contributions to the Efficient Use of General Purpose Coprocessors: Ke
 - **2011**: MSc in Computer Science. University of the Basque Country, San Sebastian (Spain).  
 Thesis: [_Parallelization of a Molecular Dynamics Simulation Code using OpenCL_](http://www.ehu.es/sgi/ARCHIVOS/MSIA_UnaiLopez.pdf), advised by Jose Miguel-Alonso and Alexander Mendiburu.
 - **2010**: BSc in Computer Science. University of Deusto, Bilbao (Spain).  
-Thesis: _A platform to enable shopping for the blind using mobile technologies_, advised by [Diego López-de-Ipiña](http://paginaspersonales.deusto.es/dipina/). Best Computer Science BSc Thesis at University of Deusto 2010 Award.
+Thesis: _A platform to enable shopping for the blind using mobile technologies_, advised by [Diego López-de-Ipiña](https://www.deusto.es/cs/Satellite/deusto/en/university-deusto/information-about-deusto/who-we-are/lecturers/1227/profesor?cambioidioma=si). Best Computer Science BSc Thesis at University of Deusto 2010 Award.
 
 ### Contact and Social Media
 
