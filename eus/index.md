@@ -56,7 +56,7 @@ Tesia: [_Contributions to the Efficient Use of General Purpose Coprocessors: Ker
 - **2011**: Masterra, Sistema Informatiko Aurreratuak. Informatika fakultatea, EHU. Donostia.  
 Amaierako lana: [_Parallelization of a Molecular Dynamics Simulation Code using OpenCL_](http://www.ehu.es/sgi/ARCHIVOS/MSIA_UnaiLopez.pdf), zuzendariak: Jose Miguel-Alonso eta Alexander Mendiburu.
 - **2010**: Ingeniaritza Informatikoa. Deustuko Unibertsitatea, Bilbo.  
-Amaierako lana: _A platform to enable shopping for the blind using mobile technologies_, zuzendaria: [Diego López-de-Ipiña](http://paginaspersonales.deusto.es/dipina/). Ingeniaritza Informatikako amaierako lan onenaren saria.
+Amaierako lana: _A platform to enable shopping for the blind using mobile technologies_, zuzendaria: [Diego López-de-Ipiña](https://www.deusto.eus/cs/Satellite/deusto/eu/deustuko-unibertsitatea-2/deusturi-buruz/nor-garen/irakasleak-2/1227/profesor?cambioidioma=si). Ingeniaritza Informatikako amaierako lan onenaren saria.
 
 ### Kontaktu eta sare sozialak
 
