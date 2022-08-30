@@ -1,4 +1,4 @@
-Ingeniaritza Informatikako Irakasle Atxikia naiz [Euskal Herriko Unibertsitatean (EHU)](https://www.ehu.eus/eu), [Bilboko Ingeniaritza Eskolan](https://www.ehu.eus/eu/web/ingeniaritza-bilbo).
+Ingeniaritza Informatikako Irakasle Atxikia naiz [Euskal Herriko Unibertsitatean (EHU)](https://www.ehu.eus/eu), [Bilboko Ingeniaritza Eskolan](https://www.ehu.eus/eu/web/bilboko-ingeniaritza-eskola/).
 
 Webgune honetan nire ikerkuntzaren deskribapena, lan esperientziaren laburpena eta harremanetan jartzeko erak aurkitu daitezke. _This website is available in English [here](https://ulopeznovoa.github.io/)_.
 
