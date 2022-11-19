@@ -65,6 +65,6 @@ My institutional web page with information about office hours is available in [B
 
 Address: _Despacho P3i17, Escuela de Ingeniería de Bilbao - Edificio II, 48013 Bilbao (Spain)_.
 
-You can find me in social networks like [Twitter](https://twitter.com/ulopeznovoa), [LinkedIn](https://www.linkedin.com/in/unailopez) or [ResearchGate](https://www.researchgate.net/profile/Unai_Lopez-Novoa).
+You can find me in social networks like [Twitter](https://twitter.com/ulopeznovoa), [LinkedIn](https://www.linkedin.com/in/unailopez), [Mastodon](<a rel="me" href="https://mastodon.eus/@ulopeznovoa">Mastodon</a>) or [ResearchGate](https://www.researchgate.net/profile/Unai_Lopez-Novoa).
 
 I have a [SlideShare](https://www.slideshare.net/unlopez) profile with slides of my presentations/talks and a [GitHub](https://github.com/ulopeznovoa) profile with some software projects, including this webpage.
