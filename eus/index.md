@@ -64,6 +64,6 @@ Nire EHU webgune ofiziala informazio akademiko eta tutoretza orduekin [hemen](ht
 
 Helbidea: _P3i17 bulegoa, Bilboko Ingeniaritza Eskola - II Eraikina, 48013 Bilbo_.
 
-[Twitter](https://twitter.com/ulopeznovoa), [LinkedIn](https://www.linkedin.com/in/unailopez) eta [ResearchGate](https://www.researchgate.net/profile/Unai_Lopez-Novoa) sare sozialeetan aurkitu ahal nauzue.
+[Twitter](https://twitter.com/ulopeznovoa), [LinkedIn](https://www.linkedin.com/in/unailopez), <a rel="me" href="https://mastodon.eus/@ulopeznovoa">Mastodon</a> eta [ResearchGate](https://www.researchgate.net/profile/Unai_Lopez-Novoa) sare sozialeetan aurkitu ahal nauzue.
 
 Eman ditudan zenbait aurkezpenen gardenkiak nire [SlideShare](https://www.slideshare.net/unlopez) profilan eskuragarri daude eta nire [GitHub](https://github.com/ulopeznovoa) profiletik hainbat software proiektu deskarga daitezke, webgune hau barne.
