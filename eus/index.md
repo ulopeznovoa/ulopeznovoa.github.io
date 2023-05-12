@@ -1,4 +1,4 @@
-Ingeniaritza Informatikako Irakasle Atxikia naiz [Euskal Herriko Unibertsitatean (EHU)](https://www.ehu.eus/eu), [Bilboko Ingeniaritza Eskolan](https://www.ehu.eus/eu/web/bilboko-ingeniaritza-eskola/).
+Ingeniaritza Informatikako irakasle agregatua naiz [Euskal Herriko Unibertsitatean (EHU)](https://www.ehu.eus/eu), [Bilboko Ingeniaritza Eskolan](https://www.ehu.eus/eu/web/bilboko-ingeniaritza-eskola/).
 
 Webgune honetan nire ikerkuntzaren deskribapena, lan esperientziaren laburpena eta harremanetan jartzeko erak aurkitu daitezke. _This website is available in English [here](https://ulopeznovoa.github.io/)_.
 
@@ -6,43 +6,34 @@ Nire helbide elektronikoa: unai.lopez -a-bildua- ehu.eus
 
 ### Ikerkuntza
 
-Nire ikerketa arlo nagusia konputazio paralelo eta banatua da, konkretuki Eraginkortasun Handiko Konputazio _(High Performance Computing)_ eta Datu Handien _(Big Data)_ sistemen errendimendua aztertzea.
+Nire ikerketa arlo nagusia konputazio paralelo eta banatua da, gai hauetan zentratuta:
+- Eraginkortasun handiko konputazioa
+- Datuak prozesatzeko sistema eskalagarriak
+- Hodei eta ertz konputazioa
+- Arkitektura heterogeneo eta emergenteak
+- Energia efizientzia konputazioan
 
-Nire azken lanek [Hydro3D](https://github.com/OuroPablo/Hydro3D) Zurrunbilo Handien Simulazio kodearen eskalagarritasuna AMD, ARM eta Intel prozesadoretan oinarritutako superkonputadoretan ([CPC 2021](https://www.sciencedirect.com/science/article/pii/S0010465521002174)) eta Intel CPU-en energia kontsumoa ([WHPBDC 2019](https://ieeexplore.ieee.org/abstract/document/9060093/)) aztertu dute.
-
-Iraganean informatikako beste arloetako ikerkeketa proiektuetan lan egin dut, adibidez, IoT eta konputazio mugikorrean ([CPSS 2019](http://ceur-ws.org/Vol-2530/paper7.pdf), [IWAAL 2011](https://link.springer.com/chapter/10.1007/978-3-642-21303-8_5)) eta Gizakietan oinarritutako konputazioan ([UIC 2017](https://ieeexplore.ieee.org/abstract/document/8397542/)).
+[Networking, Quality and Security](https://det.bi.ehu.es/NQAS) (NQaS) ikerkuntza taldeko kide eta [Fabrikazio Aeronautiko Aurreratuko Zentro](https://cfaa.eus/eu/)ko (CFAA) kide adskribatua naiz.
 
 Nire argitalpenak [Google Scholar](https://scholar.google.es/citations?user=Z8HTo5MAAAAJ) eta [DBLP](https://dblp.org/pers/l/Lopez=Novoa:Unai.html) guneetan zerrendatuta daude.
 
 ### Irakaskuntza
 
-2019ko Irailean hasi nintzen irakasle bezala Bilboko Ingeniaritza Eskolan. Handik hona, hurrengo irakasgaiak irakatsi ditut:
+Kudeaketaren eta Informazio Sistemen Informatikaren Ingeniaritzako Graduko hurrengo irakasgaien irakasle naiz:
 
-- _Sistemen Administrazioa_, Kudeaketaren eta Informazio Sistemen Informatikaren Ingeniaritzako Gradua, 4. maila  (Fitxa osoa [euskeraz](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)/[gazteleraz](https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)).
-- _Datu-baseen Kudeaketa_, Kudeaketaren eta Informazio Sistemen Informatikaren Ingeniaritzako Gradua, 3. maila  (Fitxa osoa [euskeraz](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=3&p_cod_asignatura=27706)/[gazteleraz](https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=3&p_cod_asignatura=27706)).
+- _Sistemen Administrazioa_, 4. maila  (Fitxa osoa [euskeraz](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)/[gazteleraz](https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)).
+- _Datu-baseen Kudeaketa_, 3. maila  (Fitxa osoa [euskeraz](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=3&p_cod_asignatura=27706)/[gazteleraz](https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=3&p_cod_asignatura=27706)).
+
+Iraganean irakasagai hauetan parte hartu dut ere:
+
 - _Software Garapen Aurreratua_, Kudeaketaren eta Informazio Sistemen Informatikaren Ingeniaritzako Gradua, 4. maila (2019/20 eta 2020/21 ikasturteetan).
-- _Informatikaren Oinarriak_, Ingeniaritza Elektrikoko Gradua, 1. maila (2019/20 ikasturtean).
-
-<!-- IO URLs: Fitxa osoa [euskeraz](https://www.ehu.eus/eu/ingeniaritza-elektrikoko-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=1&p_cod_asignatura=27679)/[gazteleraz](https://www.ehu.eus/es/grado-ingenieria-electrica-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=1&p_cod_asignatura=27679) -->
-
-2019 baino lehen honako irakaskuntza egin nuen:
-
-- 2017: _Programazioa C erabiliz_, Ingeniaritza Fakultatea, Deustuko Unibertsitatea. 
-- 2014: _Konputagailu Sareen Oinarriak_, Informatika Fakultatea, EHU (Laborategi praktiketako irakasle laguntzailea).
-
-<!--
-### Software
-
-Zerrenda honetan garatu ditudan edo kolaboratzen dudan Software proiektu batzuk:
-
-- **RAPL-logger**: Intel CPU duten Linux sistemetan energia kontsumoa neurtzeko tresna, [RAPL](https://ieeexplore.ieee.org/abstract/document/5599016) interfazea erabiliz. [Kode biltegia](https://github.com/ulopeznovoa/RAPL-logger) eta [artikulua](https://ieeexplore.ieee.org/abstract/document/9060093/).
-- **Hydro3D**: Zurrunbilo Handien Simulazio kodea, OpenMP eta MPI liburutegiekin garatua. Fluxu zurrunbilotsuak eta itsasgorak simulatzeko erabiltzen da. [Cardiffeko Unibertsitateko HRC taldean](https://www.cardiff.ac.uk/research/explore/research-units/hydro-environmental-research-centre) garatzen da eta bere eskalagarritasuna aztertzen dut [Pablo Ouro](https://www.research.manchester.ac.uk/portal/pablo.ouro.html)rekin batera. [Kode biltegia](https://github.com/OuroPablo/Hydro3D) eta [artikulua](https://www.sciencedirect.com/science/article/pii/S0045793018307424).
-- **BIDS Toolbox**: Erresonantzia magnetiko bidezko irudiak prozesatu eta kudeatzeko tresna. [Cardiff University Brain Research Imaging Centre](https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre) gunearekin lankidetzan garatua. [Kode biltegia](https://github.com/cardiff-brain-research-imaging-centre/bids-toolbox) eta [artikulua](https://ieeexplore.ieee.org/document/9060259).
-- **S-KDE**: Nukleoen Dentsitatearen Balioespena teknikaren OpenMP inplementazioa, eredu klimatikoak ebaluatzeko erabili izan dena. EHU [EOLO](http://www.ehu.eus/eolo/) taldeko [Jon Sáenz](http://www.ehu.eus/eolo/jsaenz.html)ekin idatzia. [Kode biltegia](https://github.com/ulopeznovoa/kde_openmp) eta [artikulua](https://journals.sagepub.com/doi/abs/10.1177/1094342015576813). -->
+- _Informatikaren Oinarriak_, Ingeniaritza Elektrikoko Gradua, 1. maila (2019/20 eta 2021/22 ikasturteetan).
 
 ### Lan esperientzia
 
-- **2019-**___Orain___: Irakasle atxikia, [Lengoaia eta Sistema Informatikoak Saila](https://www.ehu.eus/eu/web/lsi/), EHU.
+- **2019-**___Orain___: [Lengoaia eta Sistema Informatikoak Saila](https://www.ehu.eus/eu/web/lsi/), EHU.
+    - **2023-**___Orain___: Irakasle agregatua.
+    - **2019-2023**: Irakasle atxikia.
 - **2017-2019**: Ikerkuntza Software Ingeniaria, [DIRI Taldea, Cardiffeko Unibertsitatea](https://www.cardiff.ac.uk/data-innovation-research-institute).
 - **2017 (Ap-Ir)**: Master Amaierako Lan zuzendaria, [Errioxako Nazioarteko Unibertsitatea](https://unir.net/).
 - **2015-2017**: Ikertzaile Elkartua, [MoreLab Ikerketa Taldea, Deustuko Unibertsitatea](https://morelab.deusto.es/).
