@@ -9,9 +9,8 @@ My contact e-mail: unai.lopez -at- ehu.eus
 My main research area is parallel and distributed computing, with focus on the following topics:
 - High performance computing
 - Scalable data processing systems
-- Heterogeneous, many-core architectures
 - Cloud and edge computing
-- Emerging architectures 
+- Heterogeneous and emerging architectures 
 - Energy efficient computing
 
 I am a member of the [Networking, Quality and Security](https://det.bi.ehu.es/NQAS) (NQaS) research group and an affiliated member of the [Aeronautics Advanced Manufacturing Center](https://cfaa.eus/en/) (CFAA).
@@ -28,7 +27,7 @@ I currently teach the following modules of the BSc in Computing and Information 
 I have also taught the following modules in the past:
 
 - _Advanced Software Development_, BSc in Computing and Information Systems, 4th year (2019/20 and 2020/21 academic years).
-- _Fundamentals of Computer Science_, BSc in Electrical Engineering, 1st year (2019/20 academic year).
+- _Fundamentals of Computer Science_, BSc in Electrical Engineering, 1st year (2019/20 and 2021/22 academic years).
 
 ### Work Experience
 
