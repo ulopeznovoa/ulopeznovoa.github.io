@@ -21,8 +21,8 @@ Nire argitalpenak [Google Scholar](https://scholar.google.es/citations?user=Z8HT
 
 Kudeaketaren eta Informazio Sistemen Informatikaren Ingeniaritzako Graduko hurrengo irakasgaien irakasle naiz:
 
-- _Sistemen Administrazioa_, 4. maila  (Fitxa osoa [euskeraz](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)/[gazteleraz](https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)).
-- _Datu-baseen Kudeaketa_, 3. maila  (Fitxa osoa [euskeraz](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=3&p_cod_asignatura=27706)/[gazteleraz](https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=3&p_cod_asignatura=27706)).
+- _Sistemen Administrazioa_, 4. maila  (Fitxa osoa [euskeraz](https://www.ehu.eus/eu/web/graduak/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)/[gazteleraz](https://www.ehu.eus/es/web/graduak/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)).
+- _Datu-baseen Kudeaketa_, 3. maila  (Fitxa osoa [euskeraz](https://www.ehu.eus/eu/web/graduak/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=3&p_cod_asignatura=27706)/[gazteleraz](https://www.ehu.eus/es/web/graduak/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=3&p_cod_asignatura=27706)).
 
 Iraganean irakasagai hauetan parte hartu dut ere:
 
@@ -47,11 +47,11 @@ Tesia: [_Contributions to the Efficient Use of General Purpose Coprocessors: Ker
 - **2011**: Masterra, Sistema Informatiko Aurreratuak. Informatika fakultatea, EHU. Donostia.  
 Amaierako lana: [_Parallelization of a Molecular Dynamics Simulation Code using OpenCL_](http://www.ehu.es/sgi/ARCHIVOS/MSIA_UnaiLopez.pdf), zuzendariak: Jose Miguel-Alonso eta Alexander Mendiburu.
 - **2010**: Ingeniaritza Informatikoa. Deustuko Unibertsitatea, Bilbo.  
-Amaierako lana: _A platform to enable shopping for the blind using mobile technologies_, zuzendaria: [Diego López-de-Ipiña](https://www.deusto.eus/cs/Satellite/deusto/eu/deustuko-unibertsitatea-2/deusturi-buruz/nor-garen/irakasleak-2/1227/profesor?cambioidioma=si). Ingeniaritza Informatikako amaierako lan onenaren saria.
+Amaierako lana: _A platform to enable shopping for the blind using mobile technologies_, zuzendaria: [Diego López-de-Ipiña]([https://www.deusto.eus/cs/Satellite/deusto/eu/deustuko-unibertsitatea-2/deusturi-buruz/nor-garen/irakasleak-2/1227/profesor?cambioidioma=si](https://www.deusto.es/en/home/we-are-deusto/team/lecturers/1227/profesor)). 2010 urteko Ingeniaritza Informatikako amaierako lan onenaren saria.
 
 ### Kontaktu eta sare sozialak
 
-Nire EHU webgune ofiziala informazio akademiko eta tutoretza orduekin [hemen](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/irakasleak?p_redirect=consultaTutorias&p_anyo_acad=20220&p_idp=458123), gazteleraz [hemen](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/profesorado?p_redirect=consultaTutorias&p_anyo_acad=20220&p_idp=458123).
+Nire EHU webgune ofiziala informazio akademiko eta tutoretza orduekin [hemen](https://www.ehu.eus/eu/web/graduak/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/irakasleak?p_redirect=consultaTutorias&p_anyo_acad=20230&p_idp=458123), gazteleraz [hemen](https://www.ehu.eus/es/web/graduak/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/profesorado?p_redirect=consultaTutorias&p_anyo_acad=20230&p_idp=458123).
 
 Helbidea: _P3i17 bulegoa, Bilboko Ingeniaritza Eskola - II Eraikina, 48013 Bilbo_.
 
