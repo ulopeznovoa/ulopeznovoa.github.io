@@ -21,8 +21,8 @@ A list of publications is available in [Google Scholar](https://scholar.google.e
 
 I currently teach the following modules of the BSc in Computing and Information Systems:
 
-- _Systems Administration_, 4th year (Syllabus in [Basque](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)/[Spanish](https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)).
-- _Database Administration_, 3rd year (Syllabus in [Basque](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak-ikasturteka?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=3&p_cod_asignatura=27706)/[Spanish](https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=3&p_cod_asignatura=27706)).
+- _Systems Administration_, 4th year (Syllabus in [Basque](https://www.ehu.eus/eu/web/graduak/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)/[Spanish](https://www.ehu.eus/es/web/graduak/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=4&p_cod_asignatura=27709)).
+- _Database Administration_, 3rd year (Syllabus in [Basque](https://www.ehu.eus/eu/web/graduak/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/kreditu-eta-irakasgaiak?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=3&p_cod_asignatura=27706)/[Spanish](https://www.ehu.eus/es/web/graduak/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=3&p_cod_asignatura=27706)).
 
 I have also taught the following modules in the past:
 
@@ -48,11 +48,11 @@ Thesis: [_Contributions to the Efficient Use of General Purpose Coprocessors: Ke
 - **2011**: MSc in Computer Science. University of the Basque Country, San Sebastian (Spain).  
 Thesis: [_Parallelization of a Molecular Dynamics Simulation Code using OpenCL_](http://www.ehu.es/sgi/ARCHIVOS/MSIA_UnaiLopez.pdf), advised by Jose Miguel-Alonso and Alexander Mendiburu.
 - **2010**: BSc in Computer Science. University of Deusto, Bilbao (Spain).  
-Thesis: _A platform to enable shopping for the blind using mobile technologies_, advised by [Diego López-de-Ipiña](https://www.deusto.es/cs/Satellite/deusto/en/university-deusto/information-about-deusto/who-we-are/lecturers/1227/profesor?cambioidioma=si). Best Computer Science BSc Thesis at University of Deusto 2010 Award.
+Thesis: _A platform to enable shopping for the blind using mobile technologies_, advised by [Diego López-de-Ipiña](https://www.deusto.es/en/home/we-are-deusto/team/lecturers/1227/profesor). Award to the best BSc Thesis of Computer Science at the University of Deusto in 2010.
 
 ### Contact and Social Media
 
-My institutional web page with information about office hours is available in [Basque](https://www.ehu.eus/eu/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/irakasleak?p_redirect=consultaTutorias&p_anyo_acad=20220&p_idp=458123) and [Spanish](https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/profesorado?p_redirect=consultaTutorias&p_anyo_acad=20220&p_idp=458123).
+My institutional web page with information about office hours is available in [Basque](https://www.ehu.eus/eu/web/graduak/kudeaketaren-eta-informazio-sistemen-informatikaren-ingeniaritzako-gradua-bizkaia/irakasleak?p_redirect=consultaTutorias&p_anyo_acad=20230&p_idp=458123) and [Spanish](https://www.ehu.eus/es/web/graduak/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/profesorado?p_redirect=consultaTutorias&p_anyo_acad=20230&p_idp=458123).
 
 Address: _Despacho P3i17, Escuela de Ingeniería de Bilbao - Edificio II, 48013 Bilbao (Spain)_.
 
